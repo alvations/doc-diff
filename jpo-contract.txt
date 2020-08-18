@@ -1,0 +1,65 @@
+
+The above-mentioned applicant (the “Applicant”) agrees to use the above-mentioned loaned data received from the Japan Patent Office (“JPO”) which the JPO owns (the “Data”), in accordance with the following Terms of Use (the “Terms of Use”).  The contents of the Terms of Use constitute an agreement between the Applicant and the JPO (this “Agreement”).  
+
+Article 1.  Scope of Application
+1.	Each article in the Terms of Use shall apply to any relation between the Applicant and the JPO in terms of this Agreement on a loan of the Data and each of the parties shall fulfill the obligations under this Agreement in faith.    
+2.	The Applicant shall recognize the Data include the information assets that the JPO and the National Institute of Information and Communications Technology (“NICT”) create jointly based on the agreement between the JPO and the NICT.
+
+Article 2.  Purpose of this Agreement
+The Applicant shall use the Data only for the purposes of research on natural language processing such as machine translation (the “Purpose”), and shall not use the Data nor allow the organization to which the Applicant belongs, or its executive officers and employees (collectively, the “Employees”) to use the Data for any purpose other than the Purpose, such as commercial use, without a prior consent of the JPO.
+
+Article 3.  Term
+1. This Agreement shall become effective on the execution date of this Agreement, and remain in full force up to the closing day of the Workshop on Asian Translation 2019 (“WAT2019”).
+2．Notwithstanding the provisions of the preceding paragraph, if the Applicant submits the results of translation using the Data, receives evaluation on it and presents research papers in WAT2019, the Applicant may request the JPO to extend the duration of this Agreement prescribed in the preceding paragraph.  The extended duration shall be specified upon discussion between the JPO and the Applicant. 
+3. The provisions in Article 2, 5, 6, 7, 8, 9, 11, 13 and 14 shall survive expiration or termination of this Agreement.
+
+Article 4.  Termination
+The JPO may terminate this Agreement immediately without notice if any of the following occurs: 
+(1)	The Applicant commits gross negligence or a breach of faith in connection with this Agreement;
+(2)	The Applicant does not submit the results of translation or research papers in WAT2019 by the due date; 
+(3)	The Applicant breaches any provisions of this Agreement; or
+(4)	Other than above, it has become inappropriate to keep this Agreement valid, or difficult to achieve the purpose of this Agreement.  
+
+Article 5.  Limitation on Assignment of the Data
+The Applicant shall not assign, loan or disclose  (collectively, the “Assignment”) of all or any part of the Data to any third parties other than the Employees, or allow the Employees to use or copy all or any part of the Data for any purpose without a prior consent of the JPO.  
+
+Article 6  Intellectual Property Rights of Deliverables
+1. Intellectual property rights of deliverables through the Applicant’s research using the Data shall belong to the Applicant, provided that ownership and any intellectual property rights of the Data shall be and remain the sole property of the JPO.  
+2. The Applicant agrees that the Applicant will provide the JPO, free of charge, with the data and knowledge which lead to improvement of the value of the Data, such as mistranslation in order to upgrade the Data.  Intellectual property rights arising in connection with the results of analysis and improvement of the Data conducted by the JPO which are based on the data provided by the Applicant shall be the sole property of the JPO.  
+
+Article 7.  Confidentiality
+The confidential information (the “Confidential Information”) shall mean the Data, all trade secrets which the Applicant obtains in connection with execution of this Agreement, and any information designated as “confidential” that the JPO or a person designated by the JPO discloses to the Applicant.  The Applicant shall keep the Confidential Information strictly confidential in accordance herewith and shall not disclose or divulge the Confidential Information to a third party, unless otherwise expressly provided herein.  The Confidential Information does not include following information:
+(1)	information that is or becomes publicly known at the time of disclosure through no fault of the Applicant;
+(2)	information that is rightfully acquired by the Applicant from a third party who did not obtain it under any obligation of confidentiality to the JPO or another person;
+(3)	information that is in the lawful possession of the Applicant at the time of disclosure;
+(4)	information that the Applicant independently develops or creates in its own right without using the Confidential information; and
+(5)	information of which disclosure is approved by the JPO or a person designated by the JPO.
+
+Article 8.  Management of the Confidential Information
+1. Applicants shall manage the Confidential Information under the same duty of care as its own confidential information, such as putting the Confidential Information in a continuously locked depository, in order to prevent divulgence or theft of the Confidential Information, or mix-ups of the same with its own information, and so on.  If the Applicant stores the Confidential Information in a form of electronic information in order to make the Employees who need to know it for executing this Agreement access it, the Applicant shall control access to it and obtain access logs, in addition to encryption of or password protection for it.  
+2. If the Applicant conducts the Assignment of the Confidential Information to the Employees or a third party, it shall impose on such Employees and third party the confidentiality obligations provided in Article 7.  Violation of such confidentiality obligations by any of such Employees and third party shall be considered as that by the Applicant itself.  
+3. The Applicant shall not copy the Confidential Information beyond the extent of the minimum necessary for executing the Purpose.  
+
+Article 9.  Disposal of the Confidential Information
+1. Upon expiration or termination of this Agreement, or request from the JPO or a person designated by the JPO, the Applicant shall immediately dispose or delete all of the Confidential Information and all of its copies, including the Confidential Information and its copies provided to the Employees and a third party.  
+2. If the Applicant disposes or deletes the Confidential Information according to the preceding paragraph, the Applicant shall report the date and the method of such disposal or deletion in writing to the JPO or a person designated by the JPO.
+
+Article 10.  Notice
+If the affiliation of the Applicant changes, or any other situations of use of the Data change during the validity of this Agreement, the Applicant shall notify the JPO of it in advance, and discuss handling of the Data and other concerns on this Agreement with the JPO.  
+
+Article 11.  Disclaimer
+1. The Applicant agrees that the JPO provides the Data for the Applicant as-is without warranty of any kind.  The JPO assumes no responsibility and shall not be liable for any damages or loss arising in connection with the Applicant’s using or being unable to use the Data.
+2. If any disputes occur between the Applicant and a third party in connection with using the Data, the Applicant shall assume all responsibility for resolving any issues at its own expense and the JPO shall assume no responsibility or liability for any damages and loss related to the disputes.
+ 
+Article 12.  Discussion 
+Any question arising out of, or in connection with, this Agreement or any matter not stipulated herein shall be settled upon discussion between the JPO and the Applicant.  
+
+Article 13.  Jurisdiction
+The JPO and the Applicant agree that the Tokyo District Court shall be the exclusive jurisdiction as the court of first instance to resolve any disputes between the JPO and the Applicant concerning this Agreement.  
+
+Article 14.  Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of Japan.
+
+
+As a proof of consent to the Terms of Use, the Applicant affixes its name and seal to the cover page and sends the consent form to the JPO.  
+
